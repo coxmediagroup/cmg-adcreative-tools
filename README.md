@@ -4,7 +4,7 @@
 <p>If you have any ideas or imporvements pull requests are welcome.</p>
 
 <h4>Adobe Scripts</h4>
-<h5>Adobe Illustrator</h5>
+<h5>Adobe Illustrator </h5>
 <p> - Get-Layer-Group-Coords.jsx <br>
 -----This is a script that gives you the coordinates of all groups inside a layer relative to the artboard.
 When this script is run, it will dispay a collection of objects to copy and paste.</p>
